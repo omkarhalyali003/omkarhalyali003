@@ -10,7 +10,7 @@
   </a>
   <img src="https://img.shields.io/badge/CFD-Engineering-1565C0?style=for-the-badge" alt="CFD engineering"/>
   <img src="https://img.shields.io/badge/DNS-Turbulence-00897B?style=for-the-badge" alt="DNS and turbulence"/>
-  <img src="https://img.shields.io/badge/Heat-Transfer-EF6C00?style=for-the-badge" alt="Heat transfer"/>
+  <img src="https://img.shields.io/badge/Heat-Transfer-EF6C00?style=for-the-badge" alt="Heat_transfer"/>
 </p>
 
 ---
